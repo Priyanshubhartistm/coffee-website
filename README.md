@@ -3,7 +3,7 @@
 A modern, responsive coffee shop website built using **React.js**.
 
 ## 🚀 Live Demo
-👉 https://priyannshubhartism.github.io/coffee-website/
+👉 https://priyanshubhartistm.github.io/coffee-website/
 
 ---
 

@@ -17,4 +17,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: #0a0a0a;
   color: #f5f0eb;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+::selection {
+  background: rgba(200, 169, 126, 0.3);
+  color: inherit;
 }

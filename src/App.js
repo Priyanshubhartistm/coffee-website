@@ -951,7 +951,6 @@ export default function App() {
           </div>
 
           <div className="pt-8 flex flex-col md:flex-row justify-between items-center gap-4" style={{ borderTop: `1px solid ${t.border}` }}>
-            <p className="text-sm" style={{ color: t.footerText }}>© 2026 Brew & Bean. All rights reserved.</p>
             <p className="text-sm" style={{ color: t.footerText }}>Made with ❤️ aur bahut saari coffee ☕</p>
           </div>
         </div>
